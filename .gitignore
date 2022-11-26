@@ -1,0 +1,12 @@
+*.o
+*.ui.h
+usbguard-applet-qt
+moc_*
+Makefile
+.deps
+.qmake.stash
+qrc_*.cpp
+build/*.pkg.tar.*
+build/*.tar
+build/src
+build/pkg

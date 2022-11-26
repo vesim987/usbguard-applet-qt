@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/">
+        <file>resources/usbguard-icon-inactive.svg</file>
+        <file>resources/usbguard-icon.svg</file>
+        <file>resources/usbguard-icon-warning.svg</file>
+        <file>translations/cs_CZ.qm</file>
+        <file>translations/de_DE.qm</file>
+        <file>translations/es_AR.qm</file>
+    </qresource>
+</RCC>
